@@ -1,0 +1,16 @@
+2c2
+< 
+---
+> (*$c+,t-,d-,l+*)
+302d301
+<     prr : text;
+1802c1801
+< 	begin lcp^.forwdecl := false; (* mark(markp) *);
+---
+> 	begin lcp^.forwdecl := false; mark(markp);
+1811c1810
+< 	  (* release(markp) *); (* return local entries on runtime heap *)
+---
+> 	  release(markp); (* return local entries on runtime heap *)
+4015d4013
+<   rewrite(prr);	(* necessary to make it compile itself *)

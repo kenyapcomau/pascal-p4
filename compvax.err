@@ -1,0 +1,15 @@
+e 470 - Goto 3 from line 438 is into a structured statement
+  w - variable parcnt is neither used nor set
+  w - variable markp is neither used nor set
+  w - variable lsy is neither used nor set
+  w - variable lcp is neither used nor set
+  w - variable lcp is neither used nor set
+  w - variable lsz is neither used nor set
+  w - variable lmin is neither used nor set
+  w - variable lmax is neither used nor set
+  w - variable lsp is neither used nor set
+  w - variable i is neither used nor set
+  w - variable sp is neither used nor set
+  w - variable ch is neither used nor set
+  w - field cclass is never used
+  w - field intval is neither used nor set
